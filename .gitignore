@@ -1,4 +1,6 @@
 .unwanted_DS_Store
 .DS_Store
 *~
-tmp/_site/
+tmp/
+_site/
+.bundle
